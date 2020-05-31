@@ -2,7 +2,7 @@
 Allows an Arduino/Genuino board to deal with keypad 3 * 4 with 1 wire. 
 
 must create Network of resistors as in image:
-https://1.top4top.net/p_1288gi61a1.png
+https://hackster.imgix.net/uploads/attachments/946330/blob_ttPMwKopJq.blob?auto=compress%2Cformat&w=900&h=675&fit=min
 
 you can put 5Ks and 2Ks or put what you want but declare it in constructor.
  The function: char button_content(float analog) will return character was pressed , take analogRead as paramter.
